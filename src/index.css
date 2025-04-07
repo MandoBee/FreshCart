@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  @apply bg-main text-white p-1;
+
+}   
+
+:root {
+  margin-top: 80px;
+}
+
+
+
